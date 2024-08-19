@@ -1,0 +1,10 @@
+
+Olá, obrigado espero lhe ajudar.
+
+A classe Geo em anexo é base para você escrever seus próprios códigos. Não vai rodar como está, precisa de variáveis etc no codigo.
+Acredito que irá entender como implementar, mas se tiver dúvidas só me enviar um email que terei prazer em lhe ajudar.
+
+Roger Maia
+
+roger@vilesoft.us
+vilesoft.com
